@@ -1,0 +1,11 @@
+Name, Latitude, Longitude 
+San Felix CL, -26.2922, -80.1085
+Antofagasta CL, -23.6542, -70.4046
+Westport WA, 46.9083, -124.11
+Omaezaki, 34.61, 138.22
+Honiara, -9.4289, 159.9555
+Lata Wharf SB, -10.7208, 165.8019
+Lautoka FJ, -17.6049, 177.4383
+Japan 2011, 38.3, 142.4
+Chile 2010, -35.909, -72.733
+Solomon Islands 2013, -10.799, 165.114
